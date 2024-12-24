@@ -1,7 +1,7 @@
 # Monitoring-soil-moisture-value-in-Thing-speak-cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
-### NAME: VIGNESH G
-### REG NO: 24900905
+### NAME: PHARSHEEN RAHUMAN M
+### REG NO: 24006746
 
 # AIM:
 To monitor the soil moisture value in the Thing speak cloud using soil moisture sensor and ESP32 controller.
@@ -138,13 +138,14 @@ void loop()
 }
 ```
 # CIRCUIT DIAGRAM:
-
-![WhatsApp Image 2024-12-24 at 09 51 23](https://github.com/user-attachments/assets/60c8ae21-507d-4fce-826f-b50196e2e15a)
+![iotcircuitdiagram](https://github.com/user-attachments/assets/d1bb3201-09dd-4050-83d4-0e3d733e14b3)
 
 # OUTPUT:
-![Screenshot 2024-12-21 112214](https://github.com/user-attachments/assets/5c62cf57-aae2-4ada-9565-fa4cc030ce4c)
+![iotflowchart](https://github.com/user-attachments/assets/cb2bbef2-a814-4cd3-bb53-dd03d1e034ff)
 
-![Screenshot 2024-12-24 102409](https://github.com/user-attachments/assets/3d9b6d2f-6d2f-468f-85cf-bf8d4bde221d)
+![iotoutput](https://github.com/user-attachments/assets/a5d3c8f6-2e5e-47a2-98ef-3fdebd3f663d)
+
+
 
 # RESULT:
 Thus the soil moisture values are updated in the Thing speak cloud using ESP32 controller.
