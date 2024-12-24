@@ -138,14 +138,12 @@ void loop()
 }
 ```
 # CIRCUIT DIAGRAM:
-![iotcircuitdiagram](https://github.com/user-attachments/assets/d1bb3201-09dd-4050-83d4-0e3d733e14b3)
+![iot2circuit](https://github.com/user-attachments/assets/e94ea998-c42f-4454-b0a6-2501f0cead1c)
 
 # OUTPUT:
-![iotflowchart](https://github.com/user-attachments/assets/cb2bbef2-a814-4cd3-bb53-dd03d1e034ff)
+![iot2output](https://github.com/user-attachments/assets/0de80fe8-1d36-4080-b3d8-c03300063141)
 
-![iotoutput](https://github.com/user-attachments/assets/a5d3c8f6-2e5e-47a2-98ef-3fdebd3f663d)
-
-
+![iot2graph](https://github.com/user-attachments/assets/6cd83ace-b6b6-4d6d-a599-acffec8683c2)
 
 # RESULT:
 Thus the soil moisture values are updated in the Thing speak cloud using ESP32 controller.
