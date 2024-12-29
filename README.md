@@ -1,4 +1,4 @@
-# Monitoring-soil-moisture-value-in-Thing-speak-cloud
+# EXPERIMENT 5: Monitoring-soil-moisture-value-in-Thing-speak-cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 ### NAME: PHARSHEEN RAHUMAN M
 ### REG NO: 24006746
